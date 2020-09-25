@@ -1,0 +1,10 @@
+D:\Tech Tejas\C#\First GUI\First GUI\bin\Debug\First GUI.exe.config
+D:\Tech Tejas\C#\First GUI\First GUI\bin\Debug\First GUI.exe
+D:\Tech Tejas\C#\First GUI\First GUI\bin\Debug\First GUI.pdb
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First GUI.csprojAssemblyReference.cache
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First_GUI.Properties.Resources.resources
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First GUI.csproj.GenerateResource.cache
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First GUI.csproj.CoreCompileInputs.cache
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First GUI.exe
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First GUI.pdb
+D:\Tech Tejas\C#\First GUI\First GUI\obj\Debug\First_GUI.GUI.resources
